@@ -1,6 +1,6 @@
 package com.rodrigomoral.kotlinmvvm
 
-import android.support.v7.app.AppCompatActivity
+import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.rodrigomoral.kotlinmvvm.ui.main.MainFragment
 
